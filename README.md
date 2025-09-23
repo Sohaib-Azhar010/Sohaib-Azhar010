@@ -12,7 +12,7 @@ As a passionate and detail-oriented Full Stack Developer, I specialize in buildi
 ![](https://nirzak-streak-stats.vercel.app/?user=Sohaib-Azhar010&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib-Azhar010&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
